@@ -1,0 +1,26 @@
+body{
+  background-image: url(0.jpg);
+  background-size:100% auto
+}
+hr{
+  color: white;
+
+}
+
+.jumotron{
+  padding: 70px 30px 70px 30px;
+  margin: 1px auto;
+  background-color: #FFB6C1;
+  color: black;
+}
+img{
+  margin-left: 300px
+}
+.nav-link{
+  color: purple;
+}
+p{
+ padding-left: 50px;
+ padding-right: 50px;
+ text-indent: 2em
+}
